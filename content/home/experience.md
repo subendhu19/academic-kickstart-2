@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Bangalore, India"
   date_start = "2014-09-01"
-  date_end = "2014-09-31"
+  date_end = "2015-09-30"
   description = """Worked on projects involving smart energy solutions.""" 
 
  [[experience]]

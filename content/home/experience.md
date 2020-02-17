@@ -24,9 +24,9 @@ date_format = "Jan 2006"
   location = "Cambridge, MA"
   date_start = "2019-05-13"
   date_end = "2019-08-15"
-  description = """
-  Worked on Alexa's NLU engine.
-  """
+#  description = """
+#  Worked on Alexa's NLU engine.
+#  """
 
 [[experience]]
   title = "Software Developer"
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   location = "Madison, WI"
   date_start = "2015-10-01"
   date_end = "2017-08-31"
-  description = """Worked on the Epic Software Suite for Electronic Health Records."""
+#  description = """Worked on the Epic Software Suite for Electronic Health Records."""
 
 [[experience]]
   title = "Research Software Engineer"
@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   location = "Bangalore, India"
   date_start = "2014-09-01"
   date_end = "2015-09-30"
-  description = """Worked on projects involving smart energy solutions.""" 
+#  description = """Worked on projects involving smart energy solutions.""" 
 
  [[experience]]
   title = "Research Intern"
@@ -53,6 +53,6 @@ date_format = "Jan 2006"
   location = "Bangalore, India"
   date_start = "2013-05-01"
   date_end = "2013-08-01"
-  description = """Worked on privacy-preserving web analytics solutions.""" 
+#  description = """Worked on privacy-preserving web analytics solutions.""" 
 
 +++

@@ -66,6 +66,6 @@ I am a third year graduate student in the College of Information and Computer Sc
 
 My current project with Prof. Yu is on reliable and interpretable prediction of critical patient events like mortality, re-admission, bleeding, and heart failure, using electronic health records. Our latest work in this project will be published in the Journal of Medical Internet Research (JMIR) in 2020.
 
-I have also interned at Amazon Alexa AI in the summer of 2019, and will return for the summer of 2020. At Amazon, I worked on the improving semantic parsing in Alexa's NLU engine. Our work is set to be published at the Web Conference (WWW) 2020.
+I interned at Amazon Alexa AI in the summer of 2019, and will return for the summer of 2020. At Amazon, I worked on improving semantic parsing in Alexa's NLU engine. Our work is set to be published at the Web Conference (WWW) 2020.
 
 When I'm not working on research, I'm mostly playing on my PS4. I also enjoy running, climbing, and football.

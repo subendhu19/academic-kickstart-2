@@ -1,6 +1,8 @@
 +++
 widget = "accomplishments"
 headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 55  # Order that this section will appear.
 
 # ... Put Your Section Options Here (title etc.) ...
 title = "Teaching"

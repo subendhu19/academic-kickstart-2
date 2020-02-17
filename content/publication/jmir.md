@@ -19,8 +19,8 @@ authors = ["Subendhu Rongali", "Adam J. Rose", "David D. McManus", "Adarsha S. B
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In the *Journal of Medical Internet Research*."
-publication_short = "In the *Journal of Medical Internet Research*."
+publication = "In the *Journal of Medical Internet Research (JMIR)*"
+publication_short = "In the *Journal of Medical Internet Research (JMIR)*"
 
 # Abstract and optional shortened version.
 abstract = """

@@ -1,9 +1,27 @@
 +++
 
-title="Predictive modeling for critical patient events using healthcare data"
+title="Machine Learning in Healthcare"
 
-summary="Predicting clinical outcomes using longitudinal electronic health record (EHRs) data is a clinically important and computationally challenging task. In this project, we are working on predicting adverse events like patient death, bleeding, or heart failure using carefully extracted features from patient records."
+date = "2020-02-01"
+
+authors = ["Subendhu Rongali", "Abhyuday Jagannatha", "Bhanu Pratap Singh Rawat", "Hong Yu"]
+
+summary="""
+This is an ongoing project and my primary area of work. We are working on a number of ML and NLP applications in healthcare. One line of work is predicting adverse events like patient death, bleeding, or heart failure using carefully extracted features from patient records. Our previous work from here, titled CLOUT, will be published in the Journal of Medical Internet Research later this year. We are currently exploring techniques that combine traditional statistical approaches such as repair models with deep learning to predict recurrent patient events.
+
+Another line of work as part of this project is on adapting domain-specific language representation models (such as BERT) for the biomedical domain. We explored techniques from continual learning to adapt general domain models for biomedical tasks.
+"""
+
+url_pdf = ""
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+image = "health.jpg"
 
 +++
-
-Predicting clinical outcomes using longitudinal electronic health record (EHRs) data is a clinically important and computationally challenging task. In this project, we are working on predicting adverse events like patient death, re-admission, bleeding, or heart failure using carefully extracted features from patient records. We explore techniques from both statistical and neural network literature such as repair models, survival analysis, transformer models, and ordinary differential equations.

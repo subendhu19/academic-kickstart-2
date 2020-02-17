@@ -45,13 +45,13 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+projects = ["health"]
 
 # Links (optional).
 url_pdf = ""
 url_preprint = "https://preprints.jmir.org/preprint/16374/submitted"
-url_code = ""
-url_dataset = ""
+url_code = "https://github.com/subendhu19/CLOUT"
+url_dataset = "https://mimic.physionet.org/"
 url_project = ""
 url_slides = ""
 url_video = ""

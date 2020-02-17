@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *the 6th Conference Innovative Smart Grid Technologies-Asia by IEEE*."
-publication_short = "In *IEEE ISGT-ASIA*"
+publication_short = "In *the 6th Conference Innovative Smart Grid Technologies-Asia by IEEE*."
 
 # Abstract and optional shortened version.
 abstract = "District heating and cooling systems are becoming increasingly popular to serve the thermal demands of end consumers. In this paper, we investigate the problem of forecasting demand in district heating and cooling systems at the individual consumer level. We are driven by applications such as demand response, where understanding baseline consumption is required in order to set demand curtailment targets. In particular, we propose a data analytics based modeling framework, which uses a context vector based approach for forecasting energy consumption. Our proposed approach is effective in identifying the appropriate context combination that can help explain historical consumption as observed for a given consumer. We provide an evaluation of the methodology on an experimental data set obtained from households in Northern Sweden, where the resulting accuracy of prediction was up to 87%. We also demonstrate an application of the proposed approach to empower a utility company to allocate resources optimally."

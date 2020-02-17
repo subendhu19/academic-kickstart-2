@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In the *Journal of Medical Internet Research*."
-publication_short = "In *JMIR*"
+publication_short = "In the *Journal of Medical Internet Research*."
 
 # Abstract and optional shortened version.
 abstract = """

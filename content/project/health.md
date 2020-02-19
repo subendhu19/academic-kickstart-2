@@ -6,9 +6,6 @@ date = "2020-02-01"
 
 authors = ["Subendhu Rongali", "Abhyuday Jagannatha", "Bhanu Pratap Singh", "Hong Yu"]
 
-url_code = "https://github.com/subendhu19/CLOUT"
-
-[header]
 image = "health.jpg"
 
 +++

@@ -4,7 +4,7 @@ title="Proof completion in the formal verification language - Coq"
 
 date = "2019-12-01"
 
-authors = ["Emily First", Subendhu Rongali", "Yuriy Brun", "Arjun Guha"]
+authors = ["Emily First", "Subendhu Rongali", "Yuriy Brun", "Arjun Guha"]
 
 image = "coq.png"
 

@@ -6,6 +6,7 @@ date = "2020-02-01"
 
 authors = ["Subendhu Rongali", "Abhyuday Jagannatha", "Bhanu Pratap Singh", "Hong Yu"]
 
+[header]
 image = "health.jpg"
 
 +++

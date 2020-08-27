@@ -10,7 +10,7 @@ authors = ["Subendhu Rongali", "Abhyuday Jagannatha", "Bhanu Pratap Singh", "Hon
 image = "health.jpg"
 
 +++
-This is an ongoing project and my primary area of work. We are working on a number of ML and NLP applications in healthcare. 
+This was my primary area of work with Prof. Hong Yu. We are working on a number of ML and NLP applications in healthcare. 
 
 One line of work is predicting adverse events like patient death, bleeding, or heart failure using carefully extracted features from patient records. Our previous work from here, titled CLOUT, will be published in the Journal of Medical Internet Research later this year. We are currently exploring techniques that combine traditional statistical approaches such as repair models with deep learning to predict recurrent patient events.
 

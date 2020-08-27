@@ -65,8 +65,8 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth year graduate student in the College of Information and Computer Sciences, UMass Amherst. I work with Prof. Andrew McCallum on natural language processing applications, specifically unsupervised learning and information extraction. Our current work is on DIORA, an unsupervised parsing algorithm based on dynamic programming that induces tree structure in english sentences. 
+I am a fourth year graduate student in the College of Information and Computer Sciences, UMass Amherst. I work with Prof. Andrew McCallum in the Information Extraction and Synthesis (IESL) Lab. I focus on natural language processing applications, specifically unsupervised learning and information extraction.
 
-Prior to this, I worked with Prof. Hong Yu on safe and interpretable machine learning in healthcare. I'm also interested in speech and conversational AI, an interest I picked up at my two interships at Amazon Alexa AI in the summers of 2019 and 2020.
+Prior to this, I worked with Prof. Hong Yu on safe and interpretable machine learning in healthcare. I'm also interested in speech and conversational AI, an interest I picked up at my two interships at Amazon Alexa AI.
 
 When I'm not working on research, I'm mostly playing on my PS4. I also enjoy tennis, climbing, and football.

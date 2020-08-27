@@ -18,7 +18,7 @@ organizations:
   url: "https://www.umass.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine Learning, Natural Language Processing, Healthcare Informatics, and Speech/Conversational AI.
+bio: I work with Prof. Andrew McCallum at UMass Amherst. My research interests include Machine Learning, Natural Language Processing, Healthcare Informatics, and Speech/Conversational AI.
 
 interests:
 - Machine Learning
@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: M.S in Computer Science
+    institution: University of Massachusetts Amherst
+    year: 2020
   - course: B.Tech in Computer Science and Engineering
     institution: Indian Institute of Technology Madras
     year: 2014
@@ -50,7 +53,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/rongali_cv.pdf
+  link: files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -62,10 +65,8 @@ user_groups:
 - Visitors
 ---
 
-I am a third year graduate student in the College of Information and Computer Sciences, UMass Amherst. I work with Prof. Hong Yu on safe and interpretable machine learning in healthcare. I'm also interested in general natural language processing applications and speech/conversational AI. 
+I am a fourth year graduate student in the College of Information and Computer Sciences, UMass Amherst. I work with Prof. Andrew McCallum on natural language processing applications, specifically unsupervised learning and information extraction. Our current work is on DIORA, an unsupervised parsing algorithm based on dynamic programming that induces tree structure in english sentences. 
 
-My current project with Prof. Yu is on reliable and interpretable prediction of critical patient events like mortality, re-admission, bleeding, and heart failure, using electronic health records. Our latest work in this project will be published in the Journal of Medical Internet Research (JMIR) in 2020.
+Prior to this, I worked with Prof. Hong Yu on safe and interpretable machine learning in healthcare. I'm also interested in speech and conversational AI, an interest I picked up at my two interships at Amazon Alexa AI in the summers of 2019 and 2020.
 
-I interned at Amazon Alexa AI in the summer of 2019, and will return for the summer of 2020. At Amazon, I worked on improving semantic parsing in Alexa's NLU engine. Our work is set to be published at the Web Conference (WWW) 2020.
-
-When I'm not working on research, I'm mostly playing on my PS4. I also enjoy running, climbing, and football.
+When I'm not working on research, I'm mostly playing on my PS4. I also enjoy tennis, climbing, and football.

@@ -21,6 +21,17 @@ date_format = "Jan 2006"
   title = "Applied Scientist Intern"
   company = "Amazon Alexa AI"
   company_url = ""
+  location = "New York City, NY"
+  date_start = "2020-05-11"
+  date_end = "2020-08-14"
+#  description = """
+#  Worked on Alexa's SLU engine.
+#  ""
+
+[[experience]]
+  title = "Applied Scientist Intern"
+  company = "Amazon Alexa AI"
+  company_url = ""
   location = "Cambridge, MA"
   date_start = "2019-05-13"
   date_end = "2019-08-15"

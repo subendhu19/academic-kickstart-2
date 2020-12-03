@@ -29,7 +29,7 @@ abstract = "The current state-of-the-art task-oriented semantic parsing models u
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

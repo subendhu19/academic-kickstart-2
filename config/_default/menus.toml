@@ -9,14 +9,9 @@
   weight = 10
 
 [[main]]
-  name = "Updates-News"
+  name = "News"
   url = "#updates"
   weight = 15
-
-[[main]]
-  name = "Updates"
-  url = "#slider"
-  weight = 20
 
 [[main]]
   name = "Publications"

@@ -3,8 +3,6 @@ widget = "blank"
 headless: true
 active: true
 weight: 25
-design:
-  columns: '1'
 
 title = "Updates"
 

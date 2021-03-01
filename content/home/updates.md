@@ -6,7 +6,6 @@ weight = 25
 
 title = "Updates"
 
-"""
 :black_small_square: Feb 2021: I presented my internship work at AAAI 2021.
 :black_small_square: Dec 2020: I signed my offer letter to go back to Amazon Alexa for my summer internship in 2021.
 :black_small_square: Dec 2020: My internship work at Alexa in summer 2020, "Exploring Transfer Learning for End-to-End Spoken Language Understanding", was accepted at AAAI 2021.
@@ -17,5 +16,4 @@ title = "Updates"
 :black_small_square: Jan 2020: My internship work at Alexa in summer 2019, "Don't Parse, Generate! A Sequence to Sequence Architecture for Task-Oriented Semantic Parsing", was accepted at WWW 2020.
 :black_small_square: Nov 2019: I presented a poster about my summer internship work at Amazon Research Day 2019.
 :black_small_square: Jul 2019: I was awarded the Sudha and Rajesh Jha scholarship for 2019 at CICS, UMass Amherst.
-"""
 +++

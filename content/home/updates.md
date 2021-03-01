@@ -1,8 +1,8 @@
 +++
 widget = "blank"
-headless: true
-active: true
-weight: 25
+headless = true
+active = true
+weight = 25
 
 title = "Updates"
 

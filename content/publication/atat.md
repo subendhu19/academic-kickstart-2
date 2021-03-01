@@ -24,7 +24,7 @@ publication_short = "In *Proceedings of AAAI 2021*"
 
 # Abstract and optional shortened version.
 abstract = """
-NOTE: Our speech dataset is still awaiting legal approval at Amazon. It will be available shortly, please stay tuned.
+**NOTE**: *Our speech dataset is still awaiting legal approval at Amazon. It will be available shortly, please stay tuned.*
 
 Voice Assistants such as Alexa, Siri, and Google Assistant typically use a two-stage Spoken Language Understanding pipeline; first, an Automatic Speech Recognition (ASR) component to process customer speech and generate text transcriptions, followed by a Natural Language Understanding (NLU) component to map transcriptions to an actionable hypothesis. An end-to-end (E2E) system that goes directly from speech to a hypothesis is a more attractive option. These systems were shown to be smaller, faster, and better optimized. However, they require massive amounts of end-to-end training data and in addition, don't take advantage of the already available ASR and NLU training data.
 

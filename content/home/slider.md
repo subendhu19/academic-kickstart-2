@@ -16,6 +16,25 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  title = "Presented at AAAI 2021"
+  content = "I presented a poster about our spoken language understanding work at AAAI virtually in Feb 2021."
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "aaai.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.8  # Darken the image. Value in range 0-1.
+
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "See poster"
+  cta_url = "files/aaai_atat_poster.pdf"
+  cta_icon_pack = "fas"
+  cta_icon = "file-pdf"
+
+[[item]]
   title = "Alexa AI work on the news"
   content = "Our work at Amazon was featured on VentureBeat :smile:"
   align = "center"  # Choose `center`, `left`, or `right`.

@@ -67,6 +67,6 @@ user_groups:
 
 I am a fourth year graduate student in the College of Information and Computer Sciences, UMass Amherst. I work with Prof. Andrew McCallum in the Information Extraction and Synthesis (IESL) Lab. I focus on natural language processing applications, specifically unsupervised learning and information extraction.
 
-Prior to this, I worked with Prof. Hong Yu on safe and interpretable machine learning in healthcare. I'm also interested in speech and conversational AI, an interest I picked up at my two interships at Amazon Alexa AI.
+Prior to this, I worked with Prof. Hong Yu on safe and interpretable machine learning in healthcare. I'm also interested in speech and conversational AI, an interest I picked up at my two internships at Amazon Alexa AI.
 
 When I'm not working on research, I'm mostly playing on my PS5 or cheering for India in cricket. I also enjoy tennis, climbing, and football.

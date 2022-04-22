@@ -44,7 +44,6 @@ url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = "https://drive.google.com/file/d/1mNShDF57wIuXLuPniXnMOg-7R3lyN2uk/view?usp=sharing"
-url_appendix = "files/ijcai22Appendix.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -53,7 +52,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Appendix", url = "files/ijcai22Appendix.pdf"}]
 
 # Does the content use math formatting?
 math = true

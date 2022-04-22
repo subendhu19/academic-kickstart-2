@@ -43,7 +43,7 @@ projects = ["semparse"]
 url_pdf = ""
 url_preprint = ""
 url_code = ""
-url_dataset = "https://drive.google.com/file/d/1BdrpJ0_ZYl0CMnTifKwA5YoCpMnBqd1u/view?usp=sharing"
+url_dataset = "https://drive.google.com/file/d/1mNShDF57wIuXLuPniXnMOg-7R3lyN2uk/view?usp=sharing"
 url_project = ""
 url_slides = ""
 url_video = ""

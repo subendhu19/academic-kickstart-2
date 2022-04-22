@@ -23,7 +23,6 @@ bio: I work with Prof. Andrew McCallum at UMass Amherst. My research interests i
 interests:
 - Machine Learning
 - Natural Language Processing
-- Healthcare Informatics
 - Speech/Conversational AI
 
 education:

@@ -65,7 +65,7 @@ user_groups:
 - Visitors
 ---
 
-I am a fifth year graduate student in the College of Information and Computer Sciences, UMass Amherst. I work with Prof. Andrew McCallum in the Information Extraction and Synthesis (IESL) Lab. I focus on speech and conversational AI, specifically improving low resource language understanding in voice assistants. This work is done in collaboration with scientists at Amazon Alexa AI, where interned the past three summers.
+I am a fifth year graduate student in the College of Information and Computer Sciences, UMass Amherst. I work with Prof. Andrew McCallum in the Information Extraction and Synthesis (IESL) Lab. I focus on speech and conversational AI, specifically, improving low resource language understanding in voice assistants. This work is in collaboration with scientists at Amazon Alexa AI, where interned the past three summers.
 
 Prior to this, I worked with Prof. Hong Yu on safe and interpretable machine learning in healthcare.
 

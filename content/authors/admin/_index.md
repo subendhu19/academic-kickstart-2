@@ -18,7 +18,7 @@ organizations:
   url: "https://www.umass.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I work with Prof. Andrew McCallum at UMass Amherst. My research interests include Machine Learning, Natural Language Processing, Healthcare Informatics, and Speech/Conversational AI.
+bio: I work with Prof. Andrew McCallum at UMass Amherst. My research interests include Machine Learning, Natural Language Processing, and Speech/Conversational AI.
 
 interests:
 - Machine Learning
@@ -65,8 +65,8 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth year graduate student in the College of Information and Computer Sciences, UMass Amherst. I work with Prof. Andrew McCallum in the Information Extraction and Synthesis (IESL) Lab. I focus on natural language processing applications, specifically unsupervised learning and information extraction.
+I am a fifth year graduate student in the College of Information and Computer Sciences, UMass Amherst. I work with Prof. Andrew McCallum in the Information Extraction and Synthesis (IESL) Lab. I focus on speech and conversational AI, specifically improving low resource language understanding in voice assistants. This work is done in collaboration with scientists at Amazon Alexa AI, where interned the past three summers.
 
-Prior to this, I worked with Prof. Hong Yu on safe and interpretable machine learning in healthcare. I'm also interested in speech and conversational AI, an interest I picked up at my two internships at Amazon Alexa AI.
+Prior to this, I worked with Prof. Hong Yu on safe and interpretable machine learning in healthcare.
 
-When I'm not working on research, I'm mostly playing on my PS5 or cheering for India in cricket. I also enjoy tennis, climbing, and football.
+When I'm not working on research, I'm mostly playing on my PS5 or cheering for India in cricket. I also enjoy tennis, running, and football.

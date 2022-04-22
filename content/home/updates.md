@@ -11,6 +11,8 @@ height = 500
 [design]
   columns = "2"
 +++
+:black_small_square: *Apr 2022*: Our paper, *Training Naturalized Semantic Parsers with Very Little Data*, was accepted at *IJCAI 2022*. 
+:black_small_square: *Feb 2022*: I signed with Amazon Alexa AI, New York to start as an Applied Scientist II in December 2022.  
 :black_small_square: *Feb 2021*: I presented a *[poster](https://subendhurongali.netlify.app/files/aaai_atat_poster.pdf)* on my internship work at *AAAI 2021*.  
 :black_small_square: *Dec 2020*: I signed my offer letter to go back to Amazon Alexa for my summer internship in 2021.  
 :black_small_square: *Dec 2020*: My internship work at Alexa in 2020, *Exploring Transfer Learning for End-to-End Spoken Language Understanding*, was accepted at *AAAI 2021*.  

@@ -22,6 +22,17 @@ date_format = "Jan 2006"
   company = "Amazon Alexa AI"
   company_url = ""
   location = "New York City, NY"
+  date_start = "2021-06-01"
+  date_end = "2021-09-03"
+#  description = """
+#  Worked on Alexa's NLU engine.
+#  ""
+
+[[experience]]
+  title = "Applied Scientist Intern"
+  company = "Amazon Alexa AI"
+  company_url = ""
+  location = "New York City, NY"
   date_start = "2020-05-11"
   date_end = "2020-08-14"
 #  description = """

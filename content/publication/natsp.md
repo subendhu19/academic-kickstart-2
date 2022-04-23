@@ -52,7 +52,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Appendix", url = "files/ijcai22Appendix.pdf"}]
+url_custom = [{name = "Appendix", url = "files/ijcai22Appendix.pdf"}, {name = "Testing", url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"}]
 
 # Does the content use math formatting?
 math = true

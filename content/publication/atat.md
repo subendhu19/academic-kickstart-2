@@ -44,14 +44,14 @@ selected = true
 projects = ["semparse"]
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/2012.08549.pdf"
+url_pdf = "https://ojs.aaai.org/index.php/AAAI/article/view/17621"
 url_preprint = "https://arxiv.org/abs/2012.08549"
 url_code = ""
 url_dataset = "https://subendhurongali.netlify.app/publication/atat/"
 url_project = ""
-url_slides = ""
+url_slides = "files/atat_slides.pptx"
 url_video = ""
-url_poster = ""
+url_poster = "files/aaai_atat_poster.pdf"
 url_source = ""
 
 # Custom links (optional).

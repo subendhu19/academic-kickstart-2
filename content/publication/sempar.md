@@ -43,9 +43,9 @@ url_preprint = "https://arxiv.org/abs/2001.11458"
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "files/s2sptr_slides.pptx"
 url_video = ""
-url_poster = ""
+url_poster = "files/ard_poster.pdf"
 url_source = ""
 
 # Custom links (optional).

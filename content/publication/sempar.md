@@ -2,7 +2,7 @@
 title = "Don't Parse, Generate! A Sequence to Sequence Architecture for Task-Oriented Semantic Parsing"
 
 # Date first published.
-date = "2020-02-01"
+date = "2020-02-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Subendhu Rongali", "Luca Soldaini", "Emilio Monti", "Wael Hamza"]

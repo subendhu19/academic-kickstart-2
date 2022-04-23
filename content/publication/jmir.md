@@ -2,7 +2,7 @@
 title = "Learning Latent Space Representations to Predict Patient Outcomes"
 
 # Date first published.
-date = "2020-02-14"
+date = "2020-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Subendhu Rongali", "Adam J. Rose", "David D. McManus", "Adarsha S. Bajracharya", "Alok Kapoor", "Edgard Granillo", "Hong Yu"]

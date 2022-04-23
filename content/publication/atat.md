@@ -2,7 +2,7 @@
 title = "Exploring Transfer Learning for End-to-End Spoken Language Understanding"
 
 # Date first published.
-date = "2020-12-01"
+date = "2021-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Subendhu Rongali", "Beiye Liu", "Liwei Cai", "Konstantine Arkoudas", "Chengwei Su", "Wael Hamza"]

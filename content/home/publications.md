@@ -28,6 +28,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
+    projects = "semparse"
     exclude_featured = false
   
 [design]

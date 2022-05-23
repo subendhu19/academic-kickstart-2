@@ -11,7 +11,7 @@ height = 500
 [design]
   columns = "2"
 +++
-:black_small_square: *May 2022*: I successfully proposed my doctoral dissertation(*[pdf](ttps://subendhurongali.netlify.app/files/proposal.pdf)*, *[slides](ttps://subendhurongali.netlify.app/files/proposal.pptx)*) at UMass Amherst. My committee consists of *[Andrew McCallum](https://people.cs.umass.edu/~mccallum/)*, *[Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)*, *[Andrew Lan](https://people.umass.edu/~andrewlan/)*, and *[Konstantine Arkoudas](https://www.linkedin.com/in/konstantine-arkoudas-23682351/)*.
+:black_small_square: *May 2022*: I successfully proposed my doctoral dissertation (*[pdf](https://subendhurongali.netlify.app/files/proposal.pdf)*, *[slides](https://subendhurongali.netlify.app/files/proposal.pptx)*) at UMass Amherst. My committee consists of *[Andrew McCallum](https://people.cs.umass.edu/~mccallum/)*, *[Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)*, *[Andrew Lan](https://people.umass.edu/~andrewlan/)*, and *[Konstantine Arkoudas](https://www.linkedin.com/in/konstantine-arkoudas-23682351/)*.  
 :black_small_square: *Apr 2022*: Our paper, *Training Naturalized Semantic Parsers with Very Little Data*, was accepted at *IJCAI 2022*.  
 :black_small_square: *Feb 2022*: I signed with Amazon Alexa AI, New York to start as an Applied Scientist in September 2022.  
 :black_small_square: *Feb 2021*: I presented a *[poster](https://subendhurongali.netlify.app/files/aaai_atat_poster.pdf)* on my internship work at *AAAI 2021*.  

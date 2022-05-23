@@ -68,4 +68,4 @@ I am a fifth year graduate student at CICS, UMass Amherst. I work with Prof. And
 
 Prior to this, I worked with Prof. Hong Yu on safe and interpretable machine learning in healthcare.
 
-When I'm not working on research, I'm mostly playing on my PS5 or cheering for India in cricket. I also enjoy tennis, running, and football.
+When I'm not working on research, I'm mostly playing on my PS5 or cheering for India in cricket. I also enjoy tennis and cooking with my wonderful and brilliant fiancé *[Emily First](https://people.cs.umass.edu/~efirst/)*.

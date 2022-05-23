@@ -11,10 +11,10 @@ height = 500
 [design]
   columns = "2"
 +++
+:black_small_square: *May 2022*: I successfully proposed my doctoral dissertation(*[pdf](ttps://subendhurongali.netlify.app/files/proposal.pdf)*, *[slides](ttps://subendhurongali.netlify.app/files/proposal.pptx)*) at UMass Amherst. My committee consists of *[Andrew McCallum](https://people.cs.umass.edu/~mccallum/)*, *[Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)*, *[Andrew Lan](https://people.umass.edu/~andrewlan/)*, and *[Konstantine Arkoudas](https://www.linkedin.com/in/konstantine-arkoudas-23682351/)*.
 :black_small_square: *Apr 2022*: Our paper, *Training Naturalized Semantic Parsers with Very Little Data*, was accepted at *IJCAI 2022*.  
-:black_small_square: *Feb 2022*: I signed with Amazon Alexa AI, New York to start as an Applied Scientist II in December 2022.  
+:black_small_square: *Feb 2022*: I signed with Amazon Alexa AI, New York to start as an Applied Scientist in September 2022.  
 :black_small_square: *Feb 2021*: I presented a *[poster](https://subendhurongali.netlify.app/files/aaai_atat_poster.pdf)* on my internship work at *AAAI 2021*.  
-:black_small_square: *Dec 2020*: I signed my offer letter to go back to Amazon Alexa for my summer internship in 2021.  
 :black_small_square: *Dec 2020*: My internship work at Alexa in 2020, *Exploring Transfer Learning for End-to-End Spoken Language Understanding*, was accepted at *AAAI 2021*.  
 :black_small_square: *Sep 2020*: Our paper, *Unsupervised Parsing with S-DIORA: Single Tree Encoding for Deep Inside-Outside Recursive Autoencoders*, was accepted at *EMNLP 2020*.  
 :black_small_square: *Sep 2020*: Our paper, *Compressing Transformer-Based Semantic Parsing Models using Compositional Code Embeddings*, was accepted at *EMNLP Findings 2020*.  

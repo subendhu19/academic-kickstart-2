@@ -11,6 +11,7 @@ height = 500
 [design]
   columns = "2"
 +++
+:black_small_square: *July 2022*: I successfully defended my doctoral dissertation at UMass Amherst!
 :black_small_square: *May 2022*: I successfully proposed my doctoral dissertation (*[pdf](https://subendhurongali.netlify.app/files/proposal.pdf)*, *[slides](https://subendhurongali.netlify.app/files/proposal.pptx)*) at UMass Amherst. My committee consists of *[Andrew McCallum](https://people.cs.umass.edu/~mccallum/)*, *[Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)*, *[Andrew Lan](https://people.umass.edu/~andrewlan/)*, and *[Konstantine Arkoudas](https://www.linkedin.com/in/konstantine-arkoudas-23682351/)*.  
 :black_small_square: *Apr 2022*: Our paper, *Training Naturalized Semantic Parsers with Very Little Data*, was accepted at *IJCAI 2022*.  
 :black_small_square: *Feb 2022*: I signed with Amazon Alexa AI, New York to start as an Applied Scientist in September 2022.  

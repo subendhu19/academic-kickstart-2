@@ -81,19 +81,19 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "srongali@cs.umass.edu"
+email = "rongals@amazon.com"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "College of Information and Computer Sciences, 140 Governors Dr", city = "Amherst", region = "MA", postcode = "01003", country = "United States", country_code = "US"}
+address = {street = "7 West 34th St", city = "New York", region = "NY", postcode = "10001", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.3950839", longitude = "-72.5335017"}
+coordinates = {latitude = "40.7491999137799", longitude = "-73.98530459999998"}
 
 # Directions for visitors to locate you.
-directions = "Second floor, Room 216"
+#directions = "Second floor, Room 216"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

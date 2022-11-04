@@ -10,19 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student in CS
+role: Applied Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Massachusetts Amherst
-  url: "https://www.umass.edu/"
+- name: Amazon Alexa AI, New York
+  url: "https://www.amazon.science/tag/alexa"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I work with Prof. Andrew McCallum at UMass Amherst. My research interests include Machine Learning, Natural Language Processing, and Speech/Conversational AI.
+bio: I am an Applied Scientist at Amazon Alexa. My research interests include Semantic Parsing, Natural Language Processing, and Speech/Conversational AI.
 
 interests:
-- Machine Learning
-- Natural Language Processing
+- Machine Learning/Natural Language Processing
+- Semantic Parsing
 - Speech/Conversational AI
 
 education:
@@ -64,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-I am a fifth year graduate student at CICS, UMass Amherst. I work with Prof. Andrew McCallum in the Information Extraction and Synthesis (IESL) Lab. I focus on speech and conversational AI, specifically, improving low resource language understanding in voice assistants. This work is in collaboration with scientists at Amazon Alexa AI, where I interned the past three summers.
+I am an Applied Scientist at Amazon Alexa AI. I work on Alexa's language understanding engine and my research interests include semantic parsing and speech/conversational AI. I got my PhD in Computer Science from UMass Amherst in 2022. I worked with Prof. Andrew McCallum in the Information Extraction and Synthesis (IESL) Lab and my *[dissertation](https://scholarworks.umass.edu/dissertations_2/2717/)* focused on improving low resource language understanding in voice assistants.
 
-Prior to this, I worked with Prof. Hong Yu on safe and interpretable machine learning in healthcare. When I'm not working on research, I'm mostly playing on my PS5 or cheering for India in cricket. I also enjoy tennis and cooking with my wonderful and brilliant *[wife](https://www.youtube.com/watch?v=TFeu7KszB-k)* *[Emily First](https://people.cs.umass.edu/~efirst/)*.
+When I'm not working on research, I'm mostly playing on my PS5 or cheering for India in cricket. I also enjoy tennis and cooking with my wonderful and brilliant wife *[Emily First](https://people.cs.umass.edu/~efirst/)*.

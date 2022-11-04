@@ -17,17 +17,15 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Applied Scientist Intern"
+  title = "Applied Scientist"
   company = "Amazon Alexa AI"
   company_url = ""
   company_logo= "alexa.png"
   location = "New York City, NY"
-  date_start = "2021-06-01"
-  date_end = "2021-09-03"
-#  description = """
-#  Worked on Alexa's NLU engine.
-#  ""
+  date_start = "2022-09-06"
+  date_end = ""
 
 [[experience]]
   title = "Applied Scientist Intern"
@@ -35,20 +33,32 @@ date_format = "Jan 2006"
   company_url = ""
   company_logo= "alexa.png"
   location = "New York City, NY"
-  date_start = "2020-05-11"
-  date_end = "2020-08-14"
+  date_start = "2019-05-13"
+  date_end = "2021-09-03"
+  description = "Interned during summers 2019, 2020, and 2021."
+#  Worked on Alexa's NLU engine.
+#  ""
+
+#[[experience]]
+#  title = "Applied Scientist Intern"
+#  company = "Amazon Alexa AI"
+#  company_url = ""
+#  company_logo= "alexa.png"
+#  location = "New York City, NY"
+#  date_start = "2020-05-11"
+#  date_end = "2020-08-14"
 #  description = """
 #  Worked on Alexa's SLU engine.
 #  ""
 
-[[experience]]
-  title = "Applied Scientist Intern"
-  company = "Amazon Alexa AI"
-  company_url = ""
-  company_logo= "alexa.png"
-  location = "Cambridge, MA"
-  date_start = "2019-05-13"
-  date_end = "2019-08-15"
+#[[experience]]
+#  title = "Applied Scientist Intern"
+#  company = "Amazon Alexa AI"
+#  company_url = ""
+#  company_logo= "alexa.png"
+#  location = "Cambridge, MA"
+#  date_start = "2019-05-13"
+#  date_end = "2019-08-15"
 #  description = """
 #  Worked on Alexa's NLU engine.
 #  """

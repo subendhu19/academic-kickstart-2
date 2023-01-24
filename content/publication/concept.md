@@ -1,5 +1,5 @@
 +++
-title = "Training Naturalized Semantic Parsers with Very Little Data"
+title = "Low-Resource Compositional Semantic Parsing with Concept Pretraining"
 
 # Date first published.
 date = "2023-01-23"
